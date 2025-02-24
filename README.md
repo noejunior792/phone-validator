@@ -14,13 +14,13 @@ A lightweight, zero-dependency phone number validation library with support for 
 ## Installation
 
 ```bash
-npm install phone-validator
+npm install phone-gateway
 ```
 
 ## Usage
 
 ```typescript
-import { validatePhoneNumber } from 'phone-validator';
+import { validatePhoneNumber } from 'phone-gateway';
 
 // Basic usage
 const result = validatePhoneNumber('+1 (555) 555-5555', 'US');

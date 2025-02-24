@@ -25,7 +25,7 @@
     "international",
     "typescript"
   ],
-  "author": "",
+  "author": "noejunior299",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.8.0",
@@ -38,14 +38,14 @@
     "vitest": "^0.34.6"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": ">=20.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/phone-validator.git"
+    "url": "git+https://github.com/noejunior792/phone-validator.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/phone-validator/issues"
+    "url": "https://github.com/noejunior792/phone-validator/issues"
   },
-  "homepage": "https://github.com/yourusername/phone-validator#readme"
+  "homepage": "https://github.com/noejunior792/phone-validator#readme"
 }
